@@ -1,8 +1,8 @@
 class Lmm < Formula
   desc "Local AI model manager for Apple Silicon"
   homepage "https://github.com/holotherapper/lmm"
-  url "https://github.com/holotherapper/lmm/archive/refs/tags/v0.2.1.tar.gz"
-  sha256 "6fdcae3b585f4adb7b11b2ecb0c3db1dd09d80cca73fe6e062e9d01e18f7468c"
+  url "https://github.com/holotherapper/lmm/archive/refs/tags/v0.2.2.tar.gz"
+  sha256 "82ca8da7ff5fa5925b5e284510291aa16bfe66833f528a89260585520545560e"
   license "Apache-2.0"
 
   depends_on "rust" => :build
